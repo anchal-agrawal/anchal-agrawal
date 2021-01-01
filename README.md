@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I'm Anchal and I'm currently working at VMware on the [VMware Cloud on Dell EMC](https://www.vmware.com/products/vmc-on-dell-emc.html) product. Previously, I worked on the [vSphere Integrated Containers](https://github.com/vmware/vic) open-source project.
+Hi! I'm Anchal and I work on the [VMware Cloud on Dell EMC](https://www.vmware.com/products/vmc-on-dell-emc.html) product at VMware. Previously, I worked on the [vSphere Integrated Containers](https://github.com/vmware/vic) open-source project.
 
 <!--
 **anchal-agrawal/anchal-agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
