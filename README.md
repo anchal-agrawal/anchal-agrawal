@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋
 
-Hi! I'm Anchal and I work at Affirm. Previously, I worked on [VMware Cloud on Dell EMC](https://www.vmware.com/products/vmc-on-dell-emc.html) and [vSphere Integrated Containers](https://github.com/vmware/vic) at VMware.
+Hi! I'm Anchal and I work at Affirm. Previously, I worked on VMware Cloud on Dell EMC and [vSphere Integrated Containers](https://github.com/vmware/vic) at VMware.
 
 <!--
 **anchal-agrawal/anchal-agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
